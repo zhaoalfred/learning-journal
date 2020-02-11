@@ -8,4 +8,4 @@ Keeping Myself in a growth mindset
 
 > Set a phone reminder
 
-> Have an accountability partner whom with you discuss your daily goals
+> Have an accountability partner whom with I discuss my daily goals
