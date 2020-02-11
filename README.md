@@ -12,4 +12,4 @@ Growth Mindset
 
 My name is __Alfred Zhao__ and my GitHub profile is 
 
-https://zhaoalfred.github.io/learning-journal/README.md
+https://zhaoalfred.github.io/learning-journal/my-portfolio.md
