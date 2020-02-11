@@ -1,4 +1,4 @@
-#Growth Mindset
+# Growth Mindset
 ==============
 *Growth mindset* is thinking about how one can self-improve.
 
