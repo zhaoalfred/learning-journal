@@ -1,3 +1,5 @@
-# learning-journal
+#Growth Mindset
+==============
+*Growth mindset* is thinking about how one can self-improve.
 
-this is a text
+##Keeping Myself in a growth mindset
