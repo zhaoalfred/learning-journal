@@ -9,3 +9,7 @@ Growth Mindset
 > Set a phone reminder
 
 > Have an accountability partner whom with I discuss my daily goals
+
+My name is __Alfred Zhao__ and my GitHub profile is 
+
+https://zhaoalfred.github.io/learning-journal/README.md
